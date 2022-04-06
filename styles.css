@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+.vh-15 {
+  min-height: 25vh;
+}
+.vh-70 {
+  min-height: 20vh;
+}
+
+/* for illustration */
+.bg-red   { background: rgb(43, 42, 42);   }
+.bg-green { background: rgb(2, 71, 161); }
+.bg-blue  { background: rgb(93, 154, 245);  }
+div       { color: white;      }

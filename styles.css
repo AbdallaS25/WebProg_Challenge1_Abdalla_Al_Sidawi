@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: rgb(93, 154, 245);
 }
 .vh-15 {
   min-height: 25vh;
@@ -13,3 +14,57 @@ body {
 .bg-green { background: rgb(2, 71, 161); }
 .bg-blue  { background: rgb(93, 154, 245);  }
 div       { color: white;      }
+
+.Tit1 {
+  font-size: 50px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: 20;
+
+}
+
+.Tit2 {
+  font-size: 30px;
+font-family: "Lucida Console", "Courier New", monospace;
+margin: 20;
+
+}
+
+.Tit3 {
+  font-size: 20px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: 20;
+
+}
+
+
+.Tit4 {
+  font-size: 10px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: 20;
+
+}
+
+.Tit5 {
+  font-size: 30px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: 20;
+
+}
+
+.Tit6 {
+  font-size: 30px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: 20;
+
+}
+
+mark {
+  background-color: rgb(155, 155, 153);
+  color: rgb(255, 255, 255);
+}
+
+.Tit10 {
+  
+  margin: 5;
+
+}
